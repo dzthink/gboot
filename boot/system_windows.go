@@ -11,7 +11,7 @@ import (
     "path"
     "io/ioutil"
     "strconv"
-    "logger"
+    "github.com/dzthink/gboot/logger"
     "syscall"
     "os/signal"
 )

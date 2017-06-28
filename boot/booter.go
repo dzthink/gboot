@@ -12,7 +12,7 @@ import(
 	"sync"
 	"flag"
 	"syscall"
-	"logger"
+	"github.com/dzthink/gboot/logger"
 )
 
 type Booter struct {
